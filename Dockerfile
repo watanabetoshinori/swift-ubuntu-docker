@@ -45,9 +45,9 @@ RUN apt-get update && apt-get install -y \
   libcurl4-gnutls-dev \
   libcurl3 \
   libglib2.0-dev \
+  libpython2.7 \ 
   libicu-dev \
   libkqueue-dev \
-  libpython2.7 \
   libtool \
   openssh-client \
   wget \
