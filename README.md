@@ -1,5 +1,5 @@
 # Swift 3 - Ubuntu v15.10 - Docker
-Docker image with the Swift binaries (DEVELOPMENT-SNAPSHOT-2016-05-03-a)
+Docker image with the Swift binaries (DEVELOPMENT-SNAPSHOT-2016-06-06-a)
 and dependencies. Our development team uses this image for development
 and testing of Swift 3 applications on the Linux Ubuntu (v15.10) operating system.
 
